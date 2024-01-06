@@ -1,0 +1,11 @@
+provide first 5 rows in this dataset
+
+provide first 5 rows and provide last 5 rows in this dataset
+
+how much male in here? provide middle 5 rows in this dataset
+
+provide middle 5 rows in this dataset then provide a plot of male line curve? 
+
+provide a plot of male and female survived? provide a pie chart of male and female ratio? provide a bar chart of ticket fare?
+
+provide last 5 rows in this dataset then provide middle 5 rows in this dataset
